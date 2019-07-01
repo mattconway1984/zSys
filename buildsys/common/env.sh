@@ -1,3 +1,8 @@
+# DESCRIPTION:
+#  Script used to setup the ZSYS environment variables (if running zSys
+#  manually, i.e. not through the top-level Makefile)
+
+
 #!/bin/bash -l
 
 ERROR=""
