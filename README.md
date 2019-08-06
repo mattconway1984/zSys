@@ -11,3 +11,7 @@
 ## Installation
 
 > There are currently no installation instructions, simply clone the git repo and have a browse around.
+
+## More information
+
+This would specify more useful stuff
