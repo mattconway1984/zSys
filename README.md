@@ -12,6 +12,14 @@
 
 > There are currently no installation instructions, simply clone the git repo and have a browse around.
 
+## Usage
+
+> Once the zSys repo has been cloned, the build environment must be setup.
+> Run `source buildsys/common/env.sh <TARGET> <DISTRIBUTION>` to setup the build environment
+> for example, to setup the `native-unittest` environment set target to `native` and distribution to `unittest`
+
+NOTE: There only exists the native-unittest environment.
+
 ## More information
 
 This would specify more useful stuff
