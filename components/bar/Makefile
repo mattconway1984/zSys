@@ -26,7 +26,7 @@ test_bar_SOURCES = test/test_bar.c
 test_bar_TESTING = bar
 
 # Explicitly list all the (shared object) dependencies for the test runner:
-test_bar_DEPENDS = unity
+test_bar_DEPENDS = unity bar
 
 
 include ../../buildsys/common/rules.mk
